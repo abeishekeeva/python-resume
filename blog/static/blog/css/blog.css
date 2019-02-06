@@ -15,7 +15,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Saira Extra Condensed', serif;
 }
 
 .date {
@@ -43,4 +43,11 @@ h1, h2, h3, h4 {
 
 .post h1 a, .post h1 a:visited {
     color: #000000;
+}
+
+#nav {
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0;
+    width: 100%;
+    margin-top: 5%;
 }
